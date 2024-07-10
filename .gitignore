@@ -19,3 +19,5 @@ update_gsheet.py
 *.csv
 
 .env
+
+.DS_Store
